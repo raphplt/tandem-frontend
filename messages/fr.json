@@ -1,0 +1,111 @@
+{
+    "tandem": {
+        "meta": {
+            "title": "Tandem - Une vraie conversation par jour",
+            "description": "Lance un match. Parle 24h. Décide ensemble de prolonger. Tandem, l'app de rencontre qui valorise les échanges authentiques."
+        },
+        "nav": {
+            "features": "Fonctionnalités",
+            "how": "Comment ça marche",
+            "faq": "FAQ",
+            "signup": "S'inscrire"
+        },
+        "hero": {
+            "title": "Une seule vraie conversation par jour.",
+            "subtitle": "Lance un match. Parle 24h. Décide ensemble de prolonger.",
+            "cta": "Rejoindre la liste d'attente"
+        },
+        "features": {
+            "title": "Pourquoi Tandem ?",
+            "items": {
+                "one": {
+                    "title": "Un seul match par jour",
+                    "description": "Fini le swipe infini. Concentre-toi sur une seule conversation authentique."
+                },
+                "active": {
+                    "title": "Actifs uniquement",
+                    "description": "Pas de profils fantômes. Tous les utilisateurs sont engagés et présents."
+                },
+                "timer": {
+                    "title": "Conversation 24h",
+                    "description": "Tu as 24h pour échanger. Ensuite, décidez ensemble de continuer ou non."
+                },
+                "icebreaker": {
+                    "title": "Brise-glace automatique",
+                    "description": "Des questions intelligentes pour démarrer la conversation naturellement."
+                }
+            }
+        },
+        "steps": {
+            "title": "Comment ça marche",
+            "l1": {
+                "title": "1. Lancer",
+                "description": "Reçois un match par jour basé sur tes préférences."
+            },
+            "l2": {
+                "title": "2. Discuter",
+                "description": "Échange pendant 24h avec un brise-glace pour faciliter le début."
+            },
+            "l3": {
+                "title": "3. Décider",
+                "description": "Décidez ensemble de continuer ou de repartir sur un nouveau match."
+            }
+        },
+        "testimonials": {
+            "title": "Ce qu'ils en pensent",
+            "items": {
+                "1": {
+                    "text": "Enfin une app qui privilégie la qualité à la quantité. J'ai eu de vraies conversations !",
+                    "author": "Marie, 28 ans"
+                },
+                "2": {
+                    "text": "Le système de 24h force à être présent et engagé. C'est rafraîchissant.",
+                    "author": "Thomas, 32 ans"
+                },
+                "3": {
+                    "text": "Les brise-glaces sont géniaux, plus de blancs gênants en début de conversation.",
+                    "author": "Sophie, 26 ans"
+                }
+            }
+        },
+        "signup": {
+            "title": "Prêt à rejoindre Tandem ?",
+            "subtitle": "Inscris-toi à la liste d'attente et sois parmi les premiers à tester l'app.",
+            "placeholder": "ton@email.com",
+            "cta": "Rejoindre la liste",
+            "success": "Merci ! Tu es sur la liste d'attente.",
+            "error": "Une erreur est survenue. Réessaie plus tard.",
+            "loading": "Inscription en cours...",
+            "invalid": "Email invalide"
+        },
+        "faq": {
+            "title": "Questions fréquentes",
+            "q1": {
+                "question": "Comment sont choisis les matchs ?",
+                "answer": "Nos algorithmes prennent en compte tes préférences, tes centres d'intérêt et ta localisation pour te proposer un match pertinent chaque jour."
+            },
+            "q2": {
+                "question": "Que se passe-t-il après 24h ?",
+                "answer": "Si vous décidez tous les deux de continuer, la conversation reste ouverte sans limite. Sinon, vous recevez chacun un nouveau match le lendemain."
+            },
+            "q3": {
+                "question": "L'app est-elle gratuite ?",
+                "answer": "Tandem est gratuit dans sa version de base. Des fonctionnalités premium seront disponibles pour améliorer ton expérience."
+            },
+            "q4": {
+                "question": "Comment garantissez-vous la sécurité ?",
+                "answer": "Nous vérifions tous les profils, disposons d'un système de signalement et modérons les contenus pour assurer un environnement sûr."
+            },
+            "q5": {
+                "question": "Quand sera disponible l'app ?",
+                "answer": "Nous sommes en phase de beta privée. Inscris-toi à la liste d'attente pour être informé du lancement."
+            }
+        },
+        "footer": {
+            "privacy": "Confidentialité",
+            "terms": "Conditions d'utilisation",
+            "contact": "Contact",
+            "rights": "Tous droits réservés."
+        }
+    }
+}

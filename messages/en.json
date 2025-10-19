@@ -1,0 +1,111 @@
+{
+    "tandem": {
+        "meta": {
+            "title": "Tandem - One Real Conversation Per Day",
+            "description": "Launch a match. Talk for 24h. Decide together to continue. Tandem, the dating app that values authentic exchanges."
+        },
+        "nav": {
+            "features": "Features",
+            "how": "How it works",
+            "faq": "FAQ",
+            "signup": "Sign up"
+        },
+        "hero": {
+            "title": "One real conversation per day.",
+            "subtitle": "Launch a match. Talk for 24h. Decide together to continue.",
+            "cta": "Join the waitlist"
+        },
+        "features": {
+            "title": "Why Tandem?",
+            "items": {
+                "one": {
+                    "title": "One match per day",
+                    "description": "No more endless swiping. Focus on one authentic conversation."
+                },
+                "active": {
+                    "title": "Active users only",
+                    "description": "No ghost profiles. All users are engaged and present."
+                },
+                "timer": {
+                    "title": "24h conversation",
+                    "description": "You have 24h to chat. Then, decide together whether to continue or not."
+                },
+                "icebreaker": {
+                    "title": "Automatic icebreaker",
+                    "description": "Smart questions to start the conversation naturally."
+                }
+            }
+        },
+        "steps": {
+            "title": "How it works",
+            "l1": {
+                "title": "1. Launch",
+                "description": "Receive one match per day based on your preferences."
+            },
+            "l2": {
+                "title": "2. Chat",
+                "description": "Exchange for 24h with an icebreaker to ease the start."
+            },
+            "l3": {
+                "title": "3. Decide",
+                "description": "Decide together to continue or move on to a new match."
+            }
+        },
+        "testimonials": {
+            "title": "What they say",
+            "items": {
+                "1": {
+                    "text": "Finally an app that prioritizes quality over quantity. I had real conversations!",
+                    "author": "Marie, 28"
+                },
+                "2": {
+                    "text": "The 24h system forces you to be present and engaged. It's refreshing.",
+                    "author": "Thomas, 32"
+                },
+                "3": {
+                    "text": "The icebreakers are great, no more awkward silences at the start of conversations.",
+                    "author": "Sophie, 26"
+                }
+            }
+        },
+        "signup": {
+            "title": "Ready to join Tandem?",
+            "subtitle": "Sign up for the waitlist and be among the first to test the app.",
+            "placeholder": "your@email.com",
+            "cta": "Join the waitlist",
+            "success": "Thank you! You're on the waitlist.",
+            "error": "An error occurred. Please try again later.",
+            "loading": "Signing up...",
+            "invalid": "Invalid email"
+        },
+        "faq": {
+            "title": "Frequently asked questions",
+            "q1": {
+                "question": "How are matches chosen?",
+                "answer": "Our algorithms take into account your preferences, interests and location to suggest a relevant match every day."
+            },
+            "q2": {
+                "question": "What happens after 24h?",
+                "answer": "If you both decide to continue, the conversation stays open without limit. Otherwise, you each receive a new match the next day."
+            },
+            "q3": {
+                "question": "Is the app free?",
+                "answer": "Tandem is free in its basic version. Premium features will be available to enhance your experience."
+            },
+            "q4": {
+                "question": "How do you ensure safety?",
+                "answer": "We verify all profiles, have a reporting system and moderate content to ensure a safe environment."
+            },
+            "q5": {
+                "question": "When will the app be available?",
+                "answer": "We're in private beta phase. Sign up for the waitlist to be notified of the launch."
+            }
+        },
+        "footer": {
+            "privacy": "Privacy",
+            "terms": "Terms of Service",
+            "contact": "Contact",
+            "rights": "All rights reserved."
+        }
+    }
+}
